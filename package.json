@@ -1,0 +1,22 @@
+{
+  "name": "assis-pedido",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gulimadev/assis-pedido.git"
+  },
+  "author": "Gustavo Lima Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulimadev/assis-pedido/issues"
+  },
+  "homepage": "https://github.com/gulimadev/assis-pedido#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.9.0"
+  }
+}
